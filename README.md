@@ -152,6 +152,9 @@ $ cd DT-Money
 # Instale as dependências
 $ npm install
 
+# Subir o servidor do json server
+$ npm run dev:server
+
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 
@@ -260,17 +263,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Author
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img alt="PabloXT14" title="PabloXT14" src="https://avatars.githubusercontent.com/u/71723595?s=400&u=f7a1ec0c2e1f7cd1acf79f61043dbc75b1079de6&v=4" width="100px;" />
+
+ <img alt="Highlander Santos" title="Highlander Santos" src="https://avatars.githubusercontent.com/u/38596921?v=4" width="100px;" />
  <br />
- <sub><strong>Pablo Alan</strong> 🚀</sub>
-</a>
+ <sub><strong>Highlander Santos</strong> 🚀</sub>
 
 <br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-Pablo_Alan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pabloalan/)](https://www.linkedin.com/in/highlandersantos/) 
-[![Gmail Badge](https://img.shields.io/badge/-pabloxt14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santosray62@gmail.com)](mailto:pabloxt14@gmail.com)
-
 ---
 
 ## 📝 License
